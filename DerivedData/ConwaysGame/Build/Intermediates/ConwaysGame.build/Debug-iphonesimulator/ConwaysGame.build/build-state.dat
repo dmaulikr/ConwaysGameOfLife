@@ -8,8 +8,8 @@ cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-ip
 cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellView.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellView.o /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/tyler/ConwaysGameOfLife/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame normal i386
 cCopyStringsFile /Users/tyler/ConwaysGameOfLife/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings ConwaysGame/en.lproj/InfoPlist.strings
 cCompileStoryboard /Users/tyler/ConwaysGameOfLife/ConwaysGame/Base.lproj/Main.storyboard
@@ -368,7 +368,7 @@ t1423865935
 s272
 
 N/Users/tyler/ConwaysGameOfLife/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM
-t1423865604
+t1423865935
 s102
 
 N/Users/tyler/ConwaysGameOfLife/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Base.lproj/Main.storyboardc
@@ -719,7 +719,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies69e2e1cfaf8eba41^9431e2cfaf8eba41^---0#1#1#--18"Check dependencies36"1AC1605F-77EA-4BDC-B404-45870B8D6DFB-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies23a14d25b08eba41^43fe4d25b08eba41^---0#1#1#--18"Check dependencies36"FE3CC3DF-5E31-4DCF-ABFB-8D9AF018C7C8-
 
 CCompileAssetCatalog /Users/tyler/ConwaysGameOfLife/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app /Users/tyler/ConwaysGameOfLife/ConwaysGame/Images.xcassets
 r0
