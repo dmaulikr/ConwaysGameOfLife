@@ -27,19 +27,16 @@
                                                    blue:99.0f/255.0f
                                                   alpha:1.0f]];
     
+    [self addCellGridViewWithNumOfRows:8 NumOfColumns:12];
+    
+    
     ConwaysGame* game = [[ConwaysGame alloc] initWithBoundaryCondition:Finite
                                                              NumOfRows:3
                                                           NumOfColumns:3];
     [game simulateOneTimeStep];
     
-    /*
-    CGRect cellRectangle = CGRectMake(50.0f, 50.0f, 150.0f, 150.0f);
-    CellView *cellView = [[CellView alloc] initWithFrame:cellRectangle];
-    cellView.activated = false;
-    [self.view addSubview:cellView];
-     */
-    [self addCellGridViewWithNumOfRows:8 NumOfColumns:12];
-    
+
+
 }
 
 - (void) addCellGridViewWithNumOfRows: (unsigned)rows
