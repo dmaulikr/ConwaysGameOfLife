@@ -1,0 +1,814 @@
+TConwaysGame
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch ConwaysGame/ConwaysGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame normal i386
+cCopyStringsFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings ConwaysGame/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Images.xcassets
+cProcessInfoPlistFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist
+cGenerateDSYMFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame
+cTouch /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534874A40000000000000198
+t1397257380
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FE01100000000000003B4
+t1394597905
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FE015000000000000019E
+t1394597909
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531FE016000000000058E0E0
+t1394597910
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531FE01600000000005B82F0
+t1394597910
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534874850000000000446820
+t1397257349
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531FE01600000000003599D0
+t1394597910
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531FE01700000000002FC3B0
+t1394597911
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531FE016000000000004B000
+t1394597910
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FE017000000000088D8C0
+t1394597911
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531FE0180000000000037680
+t1394597912
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531FE018000000000048F720
+t1394597912
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531FE018000000000013FD70
+t1394597912
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FE01A0000000001F1DE10
+t1394597914
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531FE02000000000002BC360
+t1394597920
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531FE0240000000000002338
+t1394597924
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531FE024000000000008D370
+t1394597924
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531FE0240000000000392E20
+t1394597924
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000054A8E66800000000000141F0
+t1420355176
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531FE0240000000000014A80
+t1394597924
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531FE0240000000000033BA0
+t1394597924
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531FE024000000000001CFB0
+t1394597924
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531FE024000000000001B2B0
+t1394597924
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531FE02400000000000C9570
+t1394597924
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531FE0240000000000063280
+t1394597924
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531FE0240000000000008880
+t1394597924
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531FE0240000000000015080
+t1394597924
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531FE02400000000000230F0
+t1394597924
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531FE024000000000000E380
+t1394597924
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531FE0240000000000089380
+t1394597924
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531FE0240000000000017320
+t1394597924
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531FE0240000000000039CD0
+t1394597924
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531FE024000000000000B0B0
+t1394597924
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531FE0240000000000167E80
+t1394597924
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531FE02400000000000106A0
+t1394597924
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531FE024000000000001CE40
+t1394597924
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531FE02400000000000740C0
+t1394597924
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531FE024000000000006CA60
+t1394597924
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531FE024000000000001BAD0
+t1394597924
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531FE0240000000000084A20
+t1394597924
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FE0270000000000000ADC
+t1394597927
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053487485000000000000514C
+t1397257349
+s20812
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h
+c0000000054DD8471000000000000037C
+t1423803505
+s892
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m
+c0000000054DD84710000000000000E50
+t1423803505
+s3664
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard
+c0000000054DD11B50000000000000828
+t1423774133
+s2088
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.h
+c0000000054DD7E8A000000000000010F
+t1423801994
+s271
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.m
+c0000000054DD7E8A0000000000000128
+t1423801994
+s296
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.h
+c0000000054DD8471000000000000023F
+t1423803505
+s575
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.m
+c0000000054DD847100000000000005C0
+t1423803505
+s1472
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist
+c0000000054DD10F50000000000000469
+t1423773941
+s1129
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/ConwaysGame-Prefix.pch
+c0000000054DD0DF40000000000000158
+t1423773172
+s344
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Images.xcassets
+c0000000054DD0DF40000000000000088
+t1423773172
+s136
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.h
+c0000000054DD0DF40000000000000117
+t1423773172
+s279
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m
+c0000000054DD0DF400000000000007DE
+t1423773172
+s2014
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.h
+c0000000054DD6DCC0000000000000144
+t1423797708
+s324
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.m
+c0000000054DD77510000000000000300
+t1423800145
+s768
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/en.lproj/InfoPlist.strings
+c0000000054DD0DF4000000000000002D
+t1423773172
+s45
+
+N/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/main.m
+c0000000054DD0DF40000000000000153
+t1423773172
+s339
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o
+t1423801994
+s7292
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o
+t1423803505
+s13368
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.LinkFileList
+c0000000054DD5FAF0000000000000404
+t1423794095
+s1028
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o
+t1423803505
+s15736
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o
+t1423773179
+s62584
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o
+t1423803505
+s42208
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o
+t1423773179
+s3540
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_dependencies.txt
+t1423773181
+s311
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_generated_info.plist
+t1423773181
+s181
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch
+t1423773178
+s116112
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app
+t1423803505
+s272
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM
+t1423803355
+s102
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Base.lproj/Main.storyboardc
+t1423774133
+s170
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame
+t1423803505
+s30956
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist
+t1423773946
+s761
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/PkgInfo
+t1423773946
+s8
+
+N/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings
+t1423773179
+s42
+
+N/usr/lib/libSystem.B.dylib
+c0000000054A8E668000000000000E6D0
+t1420355176
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526748090000000000012A00
+t1382500361
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000526747F1000000000002E320
+t1382500337
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526747FC0000000000021860
+t1382500348
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000054A8E668000000000001B610
+t1420355176
+s112144
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267480800000000000BD920
+t1382500360
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000054A8E66800000000000141F0
+t1420355176
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052674808000000000000A120
+t1382500360
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000054A8E668000000000001D550
+t1420355176
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526748080000000000014EE0
+t1382500360
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005267480A0000000000010380
+t1382500362
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005267480A000000000000C4C0
+t1382500362
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267480900000000000357A0
+t1382500361
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052674809000000000000C070
+t1382500361
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c0000000054A8E6680000000000168D00
+t1420355176
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000054A8E6680000000000010630
+t1420355176
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000054A8E668000000000001DF10
+t1420355176
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526747FC0000000000075B00
+t1382500348
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000054A8E669000000000007CCE0
+t1420355177
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000526747FC00000000000766C0
+t1382500348
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c0000000054A8E6690000000000044DC0
+t1420355177
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000054A8E6690000000000021FA0
+t1420355177
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000054A8E669000000000002D920
+t1420355177
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052674809000000000001E570
+t1382500361
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000054A8E669000000000000CC70
+t1420355177
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052674804000000000000C3F0
+t1382500356
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267480900000000000199F0
+t1382500361
+s104944
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame.m
+r0
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.m
+r0
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.m
+r0
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m
+r0
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.m
+r0
+
+CBuild AST from /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfcc89df1bb8dba41^d6389ff1bb8dba41^---0#1#1#--18"Check dependencies36"778D5418-2361-4545-86EC-BFEA2EF7417E-
+
+CCompileAssetCatalog /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Images.xcassets
+s445465979.461284
+e445465981.050370
+r1
+xCompileAssetCatalog
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Assets.car
+o/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app ConwaysGame/Images.xcassets124"CompileAssetCatalog DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app ConwaysGame/Images.xcassetsc422767b458dba41^4fe50c7d458dba41^-340"/* com.apple.actool.compilation-results *//Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Assets.car/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/Images.xcassets/0000000000000000^1255"CompileAssetCatalog DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app ConwaysGame/Images.xcassets    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device ipad --compress-pngs --compile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Images.xcassets36"54372224-A10B-4B49-8DBB-378AF5EBB731-
+b24FE9502-3752-490A-A870-F0C2B6976FD2
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445494794.897925
+e445494794.934939
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.m224"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o ConwaysGame/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler02f2e50ab68dba41^425aef0ab68dba41^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/Cell.m0000000000000000^4006"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o ConwaysGame/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o36"D4854D6A-BE39-4239-B3D1-4BACB1002DCC-
+bC9E18504-1EC8-41A2-ABDC-E8409D97AAF1
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445496305.617716
+e445496305.656911
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.m232"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o ConwaysGame/CellGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb6319ef1bb8dba41^9eeda9f1bb8dba41^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/CellGrid.m0000000000000000^4030"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o ConwaysGame/CellGrid.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o36"109A4BAE-95FC-4C91-9D3A-263D81586A9C-
+b519E0F7E-E496-4934-B37C-3BB4588D92C8
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445496305.617428
+e445496305.663018
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.h
+o/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:98:41: warning: conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *' [-Wmismatched-parameter-types]
+o- (void) warpBoundaryForRow:(unsigned*) i
+o                             ~~~~~~~~~  ^
+oIn file included from /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:9:
+o/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h:32:36: note: previous definition is here
+o- (void) warpBoundaryForRow:(int*) i
+o                             ~~~~  ^
+o/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:99:41: warning: conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *' [-Wmismatched-parameter-types]
+o                     Column:(unsigned*) j
+o                             ~~~~~~~~~  ^
+oIn file included from /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:9:
+o/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h:33:36: note: previous definition is here
+o                     Column:(int*) j
+o                             ~~~~  ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m226"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o ConwaysGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler10259ef1bb8dba41^16f9a9f1bb8dba41^-1090"/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:98:41: warning: conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *' [-Wmismatched-parameter-types]- (void) warpBoundaryForRow:(unsigned*) i                             ~~~~~~~~~  ^In file included from /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:9:/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h:32:36: note: previous definition is here- (void) warpBoundaryForRow:(int*) i                             ~~~~  ^/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:99:41: warning: conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *' [-Wmismatched-parameter-types]                     Column:(unsigned*) j                             ~~~~~~~~~  ^In file included from /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.m:9:/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h:33:36: note: previous definition is here                     Column:(int*) j                             ~~~~  ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@112"Conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *'-445496305#18446744073709551615#0#1(2@27"Previous definition is here-445496305#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.h0000000000000000^31#35#31#35#787#0#21"Apple LLVM 5.1 Notice1(3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.h0000000000000000^31#29#31#33#781#3#-1#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.m0000000000000000^97#40#97#40#2975#0#14"Semantic Issue1(3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.m0000000000000000^97#29#97#38#2964#8#-2@112"Conflicting parameter types in implementation of 'warpBoundaryForRow:Column:using:': 'int *' vs 'unsigned int *'-445496305#18446744073709551615#0#1(2@27"Previous definition is here-445496305#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.h0000000000000000^32#35#32#35#824#0#21"Apple LLVM 5.1 Notice1(3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.h0000000000000000^32#29#32#33#818#3#-1#27"com.apple.dt.IDE.diagnostic3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.m0000000000000000^98#40#98#40#3017#0#14"Semantic Issue1(3@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.m0000000000000000^98#29#98#38#3006#8#-0#0#1#-19%DVTDocumentLocation4@58"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame.m0000000000000000^4024"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o ConwaysGame.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o36"B29052DB-60EC-43D7-B62B-09F5986BEB8B-
+b519E0F7E-E496-4934-B37C-3BB4588D92C8
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445465978.942547
+e445465979.149411
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m248"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o ConwaysGame/TylerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c61f17a458dba41^cd3f267b458dba41^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m0000000000000000^4078"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o ConwaysGame/TylerAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o36"A91BD636-6054-46C9-9C19-212C85FA3EFE-
+b24FE9502-3752-490A-A870-F0C2B6976FD2
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445496305.617916
+e445496305.680233
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Cell.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/CellGrid.h
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerViewController.m254"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o ConwaysGame/TylerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbe4a9ef1bb8dba41^bc24aef1bb8dba41^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/TylerViewController.m0000000000000000^4096"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o ConwaysGame/TylerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o36"61B98861-B8FA-4A48-B520-B9D95F461BD4-
+b519E0F7E-E496-4934-B37C-3BB4588D92C8
+
+CCompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445465978.942308
+e445465979.149200
+r1
+xCompileC
+xDerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/main.m
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/main.m224"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o ConwaysGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2653f17a458dba41^0533267b458dba41^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/main.m0000000000000000^4006"CompileC DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o ConwaysGame/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -include /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.dia -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/main.m -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o36"7598F265-C367-4697-835F-70F6C90818F2-
+b24FE9502-3752-490A-A870-F0C2B6976FD2
+
+CCompileStoryboard /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard
+s445466933.353293
+e445466933.599988
+r1
+xCompileStoryboard
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard ConwaysGame/Base.lproj/Main.storyboard56"CompileStoryboard ConwaysGame/Base.lproj/Main.storyboard0b7f5a35498dba41^bb999935498dba41^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard0000000000000000^870"CompileStoryboard ConwaysGame/Base.lproj/Main.storyboard    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Base.lproj/Main.storyboardc /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Base.lproj/Main.storyboard36"6A05866C-6408-4A41-8C61-32972055A6AA-
+bB8E1AB74-94A7-46C8-8F36-46474CDB20B9
+
+CCopyStringsFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings ConwaysGame/en.lproj/InfoPlist.strings
+s445465979.460916
+e445465979.462869
+r1
+xCopyStringsFile
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings
+xConwaysGame/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy ConwaysGame/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings ConwaysGame/en.lproj/InfoPlist.stringsbb0d767b458dba41^807f767b458dba41^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/en.lproj/InfoPlist.strings0000000000000000^654"CopyStringsFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj/InfoPlist.strings ConwaysGame/en.lproj/InfoPlist.strings    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/en.lproj -- ConwaysGame/en.lproj/InfoPlist.strings36"A5664C34-87E0-48AC-9746-C2DF2E78A40C-
+b24FE9502-3752-490A-A870-F0C2B6976FD2
+
+CGenerateDSYMFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame
+s445496305.718822
+e445496305.733485
+r1
+xGenerateDSYMFile
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM187"GenerateDSYMFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame7617b8f1bb8dba41^d315c0f1bb8dba41^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/tyler/Xcode%20Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM/0000000000000000^776"GenerateDSYMFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app.dSYM36"67FC0F49-3F7D-483D-B68C-A2564737185B-
+b519E0F7E-E496-4934-B37C-3BB4588D92C8
+
+CLd /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame normal i386
+s445496305.682015
+e445496305.716794
+r1
+xLd
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame
+xnormal
+xi386
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/main.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/Cell.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/CellGrid.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerAppDelegate.o
+d/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/TylerViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Link /Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame103"Ld DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame normal i386f8a5aef1bb8dba41^3926bbf1bb8dba41^---0#0#1#--1562"Ld DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame normal i386    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator -filelist /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/Objects-normal/i386/ConwaysGame_dependency_info.dat -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/ConwaysGame36"A77E0F6E-3F89-4942-B55B-D7B455D2B9CF-
+b519E0F7E-E496-4934-B37C-3BB4588D92C8
+
+CProcessInfoPlistFile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist
+s445466746.005978
+e445466746.013304
+r1
+xProcessInfoPlistFile
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist
+x/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Process /Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist143"ProcessInfoPlistFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist ConwaysGame/ConwaysGame-Info.plista393017a488dba41^6669037a488dba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist0000000000000000^1005"ProcessInfoPlistFile DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist ConwaysGame/ConwaysGame-Info.plist    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/ConwaysGame-Info.plist -genpkginfo /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/assetcatalog_generated_info.plist -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app/Info.plist36"6648B228-30D8-4CAB-AA14-CD8D6C76A342-
+bE7FBE087-209C-498D-97BC-688CBCD2A2FC
+
+CProcessPCH /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch ConwaysGame/ConwaysGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s445465977.611334
+e445465978.941543
+r1
+xProcessPCH
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch
+xConwaysGame/ConwaysGame-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tyler/Xcode Proj/ConwaysGame/ConwaysGame/ConwaysGame-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile ConwaysGame/ConwaysGame-Prefix.pch251"ProcessPCH DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch ConwaysGame/ConwaysGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler61e19c79458dba41^310bf17a458dba41^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/tyler/Xcode%20Proj/ConwaysGame/ConwaysGame/ConwaysGame-Prefix.pch0000000000000000^3899"ProcessPCH DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch ConwaysGame/ConwaysGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-generated-files.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-own-target-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-all-target-headers.hmap -iquote /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/ConwaysGame-project-headers.hmap -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources/i386 -I/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/ConwaysGame.build/Debug-iphonesimulator/ConwaysGame.build/DerivedSources -F/Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.dia -MMD -MT dependencies -MF /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.d -c /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/ConwaysGame-Prefix.pch -o /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Intermediates/PrecompiledHeaders/ConwaysGame-Prefix-djwinfoudbvcpqeonuroqwhzgrfv/ConwaysGame-Prefix.pch.pch36"6F8D0FDF-9D2C-4292-87BA-2D6F41955095-
+b24FE9502-3752-490A-A870-F0C2B6976FD2
+
+CProcessPCH /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Index/PrecompiledHeaders/ConwaysGame-Prefix-brfdtmlyeshepeajlculnoflbdne_ast/ConwaysGame-Prefix.pch.pch ConwaysGame/ConwaysGame-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app
+s445466933.600775
+e445466933.603783
+r1
+xTouch
+x/Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Touch /Users/tyler/Xcode Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app82"Touch DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.appbad79935498dba41^4f929a35498dba41^---0#0#1#--459"Touch DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app    cd "/Users/tyler/Xcode Proj/ConwaysGame"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tyler/Xcode\ Proj/ConwaysGame/DerivedData/ConwaysGame/Build/Products/Debug-iphonesimulator/ConwaysGame.app36"1FAF8B5C-0699-4DD7-95DD-8A5E9875DB0A-
+bB8E1AB74-94A7-46C8-8F36-46474CDB20B9
+

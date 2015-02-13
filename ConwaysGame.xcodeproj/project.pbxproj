@@ -1,0 +1,494 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2F2664261A8D45740035362A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664251A8D45740035362A /* Foundation.framework */; };
+		2F2664281A8D45740035362A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664271A8D45740035362A /* CoreGraphics.framework */; };
+		2F26642A1A8D45740035362A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664291A8D45740035362A /* UIKit.framework */; };
+		2F2664301A8D45740035362A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2F26642E1A8D45740035362A /* InfoPlist.strings */; };
+		2F2664321A8D45740035362A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F2664311A8D45740035362A /* main.m */; };
+		2F2664361A8D45740035362A /* TylerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F2664351A8D45740035362A /* TylerAppDelegate.m */; };
+		2F2664391A8D45740035362A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F2664371A8D45740035362A /* Main.storyboard */; };
+		2F26643C1A8D45740035362A /* TylerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F26643B1A8D45740035362A /* TylerViewController.m */; };
+		2F26643E1A8D45740035362A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F26643D1A8D45740035362A /* Images.xcassets */; };
+		2F2664451A8D45740035362A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664441A8D45740035362A /* XCTest.framework */; };
+		2F2664461A8D45740035362A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664251A8D45740035362A /* Foundation.framework */; };
+		2F2664471A8D45740035362A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F2664291A8D45740035362A /* UIKit.framework */; };
+		2F26644F1A8D45740035362A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2F26644D1A8D45740035362A /* InfoPlist.strings */; };
+		2F2664511A8D45740035362A /* ConwaysGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F2664501A8D45740035362A /* ConwaysGameTests.m */; };
+		2F26645C1A8D4ADE0035362A /* Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F26645B1A8D4ADE0035362A /* Cell.m */; };
+		2F26645F1A8D514C0035362A /* CellGrid.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F26645E1A8D514C0035362A /* CellGrid.m */; };
+		2F2664621A8D87850035362A /* ConwaysGame.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F2664611A8D87850035362A /* ConwaysGame.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2F2664481A8D45740035362A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2F26641A1A8D45740035362A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2F2664211A8D45740035362A;
+			remoteInfo = ConwaysGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2F2664221A8D45740035362A /* ConwaysGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConwaysGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F2664251A8D45740035362A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		2F2664271A8D45740035362A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2F2664291A8D45740035362A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		2F26642D1A8D45740035362A /* ConwaysGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConwaysGame-Info.plist"; sourceTree = "<group>"; };
+		2F26642F1A8D45740035362A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2F2664311A8D45740035362A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2F2664331A8D45740035362A /* ConwaysGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ConwaysGame-Prefix.pch"; sourceTree = "<group>"; };
+		2F2664341A8D45740035362A /* TylerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TylerAppDelegate.h; sourceTree = "<group>"; };
+		2F2664351A8D45740035362A /* TylerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TylerAppDelegate.m; sourceTree = "<group>"; };
+		2F2664381A8D45740035362A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2F26643A1A8D45740035362A /* TylerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TylerViewController.h; sourceTree = "<group>"; };
+		2F26643B1A8D45740035362A /* TylerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TylerViewController.m; sourceTree = "<group>"; };
+		2F26643D1A8D45740035362A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2F2664431A8D45740035362A /* ConwaysGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConwaysGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F2664441A8D45740035362A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		2F26644C1A8D45740035362A /* ConwaysGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ConwaysGameTests-Info.plist"; sourceTree = "<group>"; };
+		2F26644E1A8D45740035362A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		2F2664501A8D45740035362A /* ConwaysGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ConwaysGameTests.m; sourceTree = "<group>"; };
+		2F26645A1A8D4ADE0035362A /* Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cell.h; sourceTree = "<group>"; };
+		2F26645B1A8D4ADE0035362A /* Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cell.m; sourceTree = "<group>"; };
+		2F26645D1A8D514C0035362A /* CellGrid.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CellGrid.h; sourceTree = "<group>"; };
+		2F26645E1A8D514C0035362A /* CellGrid.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CellGrid.m; sourceTree = "<group>"; };
+		2F2664601A8D87850035362A /* ConwaysGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConwaysGame.h; sourceTree = SOURCE_ROOT; };
+		2F2664611A8D87850035362A /* ConwaysGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConwaysGame.m; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2F26641F1A8D45740035362A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F2664281A8D45740035362A /* CoreGraphics.framework in Frameworks */,
+				2F26642A1A8D45740035362A /* UIKit.framework in Frameworks */,
+				2F2664261A8D45740035362A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F2664401A8D45740035362A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F2664451A8D45740035362A /* XCTest.framework in Frameworks */,
+				2F2664471A8D45740035362A /* UIKit.framework in Frameworks */,
+				2F2664461A8D45740035362A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2F2664191A8D45740035362A = {
+			isa = PBXGroup;
+			children = (
+				2F26642B1A8D45740035362A /* ConwaysGame */,
+				2F26644A1A8D45740035362A /* ConwaysGameTests */,
+				2F2664241A8D45740035362A /* Frameworks */,
+				2F2664231A8D45740035362A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2F2664231A8D45740035362A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2F2664221A8D45740035362A /* ConwaysGame.app */,
+				2F2664431A8D45740035362A /* ConwaysGameTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2F2664241A8D45740035362A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2F2664251A8D45740035362A /* Foundation.framework */,
+				2F2664271A8D45740035362A /* CoreGraphics.framework */,
+				2F2664291A8D45740035362A /* UIKit.framework */,
+				2F2664441A8D45740035362A /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2F26642B1A8D45740035362A /* ConwaysGame */ = {
+			isa = PBXGroup;
+			children = (
+				2F2664601A8D87850035362A /* ConwaysGame.h */,
+				2F2664611A8D87850035362A /* ConwaysGame.m */,
+				2F26645D1A8D514C0035362A /* CellGrid.h */,
+				2F26645E1A8D514C0035362A /* CellGrid.m */,
+				2F26645A1A8D4ADE0035362A /* Cell.h */,
+				2F26645B1A8D4ADE0035362A /* Cell.m */,
+				2F2664341A8D45740035362A /* TylerAppDelegate.h */,
+				2F2664351A8D45740035362A /* TylerAppDelegate.m */,
+				2F2664371A8D45740035362A /* Main.storyboard */,
+				2F26643A1A8D45740035362A /* TylerViewController.h */,
+				2F26643B1A8D45740035362A /* TylerViewController.m */,
+				2F26643D1A8D45740035362A /* Images.xcassets */,
+				2F26642C1A8D45740035362A /* Supporting Files */,
+			);
+			path = ConwaysGame;
+			sourceTree = "<group>";
+		};
+		2F26642C1A8D45740035362A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2F26642D1A8D45740035362A /* ConwaysGame-Info.plist */,
+				2F26642E1A8D45740035362A /* InfoPlist.strings */,
+				2F2664311A8D45740035362A /* main.m */,
+				2F2664331A8D45740035362A /* ConwaysGame-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2F26644A1A8D45740035362A /* ConwaysGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				2F2664501A8D45740035362A /* ConwaysGameTests.m */,
+				2F26644B1A8D45740035362A /* Supporting Files */,
+			);
+			path = ConwaysGameTests;
+			sourceTree = "<group>";
+		};
+		2F26644B1A8D45740035362A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2F26644C1A8D45740035362A /* ConwaysGameTests-Info.plist */,
+				2F26644D1A8D45740035362A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2F2664211A8D45740035362A /* ConwaysGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F2664541A8D45740035362A /* Build configuration list for PBXNativeTarget "ConwaysGame" */;
+			buildPhases = (
+				2F26641E1A8D45740035362A /* Sources */,
+				2F26641F1A8D45740035362A /* Frameworks */,
+				2F2664201A8D45740035362A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ConwaysGame;
+			productName = ConwaysGame;
+			productReference = 2F2664221A8D45740035362A /* ConwaysGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2F2664421A8D45740035362A /* ConwaysGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2F2664571A8D45740035362A /* Build configuration list for PBXNativeTarget "ConwaysGameTests" */;
+			buildPhases = (
+				2F26643F1A8D45740035362A /* Sources */,
+				2F2664401A8D45740035362A /* Frameworks */,
+				2F2664411A8D45740035362A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2F2664491A8D45740035362A /* PBXTargetDependency */,
+			);
+			name = ConwaysGameTests;
+			productName = ConwaysGameTests;
+			productReference = 2F2664431A8D45740035362A /* ConwaysGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2F26641A1A8D45740035362A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Tyler;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = tyler;
+				TargetAttributes = {
+					2F2664421A8D45740035362A = {
+						TestTargetID = 2F2664211A8D45740035362A;
+					};
+				};
+			};
+			buildConfigurationList = 2F26641D1A8D45740035362A /* Build configuration list for PBXProject "ConwaysGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2F2664191A8D45740035362A;
+			productRefGroup = 2F2664231A8D45740035362A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2F2664211A8D45740035362A /* ConwaysGame */,
+				2F2664421A8D45740035362A /* ConwaysGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2F2664201A8D45740035362A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F26643E1A8D45740035362A /* Images.xcassets in Resources */,
+				2F2664301A8D45740035362A /* InfoPlist.strings in Resources */,
+				2F2664391A8D45740035362A /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F2664411A8D45740035362A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F26644F1A8D45740035362A /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2F26641E1A8D45740035362A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F2664621A8D87850035362A /* ConwaysGame.m in Sources */,
+				2F2664321A8D45740035362A /* main.m in Sources */,
+				2F26645C1A8D4ADE0035362A /* Cell.m in Sources */,
+				2F26645F1A8D514C0035362A /* CellGrid.m in Sources */,
+				2F2664361A8D45740035362A /* TylerAppDelegate.m in Sources */,
+				2F26643C1A8D45740035362A /* TylerViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2F26643F1A8D45740035362A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F2664511A8D45740035362A /* ConwaysGameTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2F2664491A8D45740035362A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2F2664211A8D45740035362A /* ConwaysGame */;
+			targetProxy = 2F2664481A8D45740035362A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2F26642E1A8D45740035362A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2F26642F1A8D45740035362A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		2F2664371A8D45740035362A /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2F2664381A8D45740035362A /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2F26644D1A8D45740035362A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2F26644E1A8D45740035362A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2F2664521A8D45740035362A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		2F2664531A8D45740035362A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2F2664551A8D45740035362A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ConwaysGame/ConwaysGame-Prefix.pch";
+				INFOPLIST_FILE = "ConwaysGame/ConwaysGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2F2664561A8D45740035362A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ConwaysGame/ConwaysGame-Prefix.pch";
+				INFOPLIST_FILE = "ConwaysGame/ConwaysGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		2F2664581A8D45740035362A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ConwaysGame.app/ConwaysGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ConwaysGame/ConwaysGame-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "ConwaysGameTests/ConwaysGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		2F2664591A8D45740035362A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/ConwaysGame.app/ConwaysGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "ConwaysGame/ConwaysGame-Prefix.pch";
+				INFOPLIST_FILE = "ConwaysGameTests/ConwaysGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2F26641D1A8D45740035362A /* Build configuration list for PBXProject "ConwaysGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F2664521A8D45740035362A /* Debug */,
+				2F2664531A8D45740035362A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2F2664541A8D45740035362A /* Build configuration list for PBXNativeTarget "ConwaysGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F2664551A8D45740035362A /* Debug */,
+				2F2664561A8D45740035362A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		2F2664571A8D45740035362A /* Build configuration list for PBXNativeTarget "ConwaysGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2F2664581A8D45740035362A /* Debug */,
+				2F2664591A8D45740035362A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2F26641A1A8D45740035362A /* Project object */;
+}
