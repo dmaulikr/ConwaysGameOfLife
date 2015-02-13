@@ -22,9 +22,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    [self.view setBackgroundColor:[UIColor colorWithRed:65.0f/255.0f
-                                                  green:82.0f/255.0f
-                                                   blue:99.0f/255.0f
+    [self.view setBackgroundColor:[UIColor colorWithRed:47.0f/255.0f
+                                                  green:60.0f/255.0f
+                                                   blue:73.0f/255.0f
                                                   alpha:1.0f]];
     
     [self addCellGridViewWithNumOfRows:8 NumOfColumns:12];
