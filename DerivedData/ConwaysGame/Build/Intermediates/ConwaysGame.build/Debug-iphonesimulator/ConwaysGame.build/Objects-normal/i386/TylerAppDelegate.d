@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.m \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.h
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerAppDelegate.m \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerAppDelegate.h

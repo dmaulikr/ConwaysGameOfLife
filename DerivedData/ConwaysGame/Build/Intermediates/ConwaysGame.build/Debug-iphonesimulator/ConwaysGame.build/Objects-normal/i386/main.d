@@ -1,2 +1,2 @@
-dependencies: /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/main.m \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerAppDelegate.h
+dependencies: /Users/tyler/ConwaysGameOfLife/ConwaysGame/main.m \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerAppDelegate.h

@@ -1,3 +1,3 @@
-dependencies: /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.m \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.h \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.h
+dependencies: /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellGrid.m \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellGrid.h \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/Cell.h

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.m \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/TylerViewController.h \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.h \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/CellGrid.h \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame.h
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerViewController.m \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/TylerViewController.h \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/Cell.h \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/CellGrid.h \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/ConwaysGame.h

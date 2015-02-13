@@ -1,2 +1,2 @@
-dependencies: /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.m \
-  /Users/tyler/Xcode\ Proj/ConwaysGame/ConwaysGame/Cell.h
+dependencies: /Users/tyler/ConwaysGameOfLife/ConwaysGame/Cell.m \
+  /Users/tyler/ConwaysGameOfLife/ConwaysGame/Cell.h
