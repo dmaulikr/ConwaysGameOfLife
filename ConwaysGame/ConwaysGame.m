@@ -7,6 +7,7 @@
 //
 
 #import "ConwaysGame.h"
+#import "CellGrid.h"
 
 @implementation ConwaysGame
 

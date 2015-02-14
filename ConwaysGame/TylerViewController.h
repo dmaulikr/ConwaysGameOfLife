@@ -14,6 +14,6 @@
 
 @interface TylerViewController : UIViewController
 
-@property (strong, nonatomic) Cell *aCell;
+
 
 @end
