@@ -12,4 +12,4 @@ https://docs.google.com/document/d/16LgFh893rjE3uCdjoQH9ZS3bL98kB9EPtF-Ki7YLZE8/
 # Preview
 Youtube Video of the App running: https://www.youtube.com/watch?v=SGXCrcHcZoI
 
-![alt tag](http://i.imgur.com/VOQts19.png)
+![alt tag](http://i.imgur.com/B1P6BUw.png)
