@@ -7,12 +7,13 @@ Rules:
 * R3.	Any live cell with more than three live neighbours dies.
 * R4.	Any dead cell with exactly three live neighbours becomes a live cell.
 
-# Notes:
-https://docs.google.com/document/d/16LgFh893rjE3uCdjoQH9ZS3bL98kB9EPtF-Ki7YLZE8/edit
 # Preview
 Youtube Video of the App running: www.youtube.com/watch?v=FCt_GIdGEKY&feature=youtu.be
 
 ![alt tag](http://i.imgur.com/B1P6BUw.png)
+
+# Notes:
+https://docs.google.com/document/d/16LgFh893rjE3uCdjoQH9ZS3bL98kB9EPtF-Ki7YLZE8/edit
 
 **License**
 -----------
