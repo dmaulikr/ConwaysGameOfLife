@@ -70,6 +70,9 @@
 
 - (IBAction)clear2DGrid:(UIButton *)sender {
     
+    self.StartStopSwitchOutlet.on = NO;
+    [self stopGame];
+    
     // Make sure the number of cells in the model
     // is the same as the number of cells displayed in
     // current cellGridView
