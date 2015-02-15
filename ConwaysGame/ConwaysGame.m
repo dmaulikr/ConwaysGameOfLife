@@ -59,7 +59,7 @@
         for (int k = j-1; k <= j+1; k++) {
             // skip the cell in the center
             if (l != i || k != j) {
-              // warp boundary condition
+              // warp using boundary condition
               int m = l;
               int n = k;
               [self warpBoundaryForRow:&m Column:&n using:self.boundaryCondition];
