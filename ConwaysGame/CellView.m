@@ -34,6 +34,13 @@
 - (void) setup
 {
     self.activated = YES;
+    self.tapGestureRecognizer = [[UITapGestureRecognizer alloc]initWithTarget:self action:@selector(handleTapGesture:)];
+    [self addGestureRecognizer:self.tapGestureRecognizer];
+}
+
+- (void) handleTapGesture:(UITapGestureRecognizer *) tapGestureRecognizer
+{
+    self.activated = !self.activated;
 }
 
 - (UIColor *) getActivatedColor

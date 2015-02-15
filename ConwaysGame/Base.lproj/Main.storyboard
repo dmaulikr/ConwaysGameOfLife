@@ -84,6 +84,17 @@
                                 <rect key="frame" x="793" y="557" width="200" height="216"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
                             </pickerView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ewk-Dc-FLP">
+                                <rect key="frame" x="742" y="700" width="85" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <state key="normal" title="Clear">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="clear2DGrid:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WsS-i1-mP9"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.11808611189531515" green="0.10393595896509222" blue="0.27138472576530615" alpha="1" colorSpace="calibratedRGB"/>
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>

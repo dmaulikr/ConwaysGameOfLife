@@ -124,19 +124,14 @@
 		2F26642B1A8D45740035362A /* ConwaysGame */ = {
 			isa = PBXGroup;
 			children = (
-				2F2664631A8DBD9E0035362A /* ConwaysGame.h */,
-				2F2664641A8DBD9E0035362A /* ConwaysGame.m */,
-				2F26645D1A8D514C0035362A /* CellGrid.h */,
-				2F26645E1A8D514C0035362A /* CellGrid.m */,
-				2F26645A1A8D4ADE0035362A /* Cell.h */,
-				2F26645B1A8D4ADE0035362A /* Cell.m */,
+				2F26646A1A90ECBF0035362A /* Model */,
+				2F2664691A8E86CF0035362A /* View */,
 				2F2664341A8D45740035362A /* TylerAppDelegate.h */,
 				2F2664351A8D45740035362A /* TylerAppDelegate.m */,
 				2F2664371A8D45740035362A /* Main.storyboard */,
 				2F26643A1A8D45740035362A /* TylerViewController.h */,
 				2F26643B1A8D45740035362A /* TylerViewController.m */,
 				2F26643D1A8D45740035362A /* Images.xcassets */,
-				2F2664691A8E86CF0035362A /* View */,
 				2F26642C1A8D45740035362A /* Supporting Files */,
 			);
 			path = ConwaysGame;
@@ -178,6 +173,19 @@
 				2F2664671A8E86C30035362A /* CellView.m */,
 			);
 			name = View;
+			sourceTree = "<group>";
+		};
+		2F26646A1A90ECBF0035362A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				2F26645B1A8D4ADE0035362A /* Cell.m */,
+				2F2664631A8DBD9E0035362A /* ConwaysGame.h */,
+				2F2664641A8DBD9E0035362A /* ConwaysGame.m */,
+				2F26645D1A8D514C0035362A /* CellGrid.h */,
+				2F26645E1A8D514C0035362A /* CellGrid.m */,
+				2F26645A1A8D4ADE0035362A /* Cell.h */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

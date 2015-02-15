@@ -11,5 +11,6 @@
 @interface CellView : UIView
 
 @property (nonatomic) BOOL activated;
+@property (nonatomic, strong) UITapGestureRecognizer* tapGestureRecognizer;
 
 @end

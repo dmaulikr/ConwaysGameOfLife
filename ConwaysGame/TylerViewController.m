@@ -67,9 +67,27 @@
     }
 }
 
+
+- (IBAction)clear2DGrid:(UIButton *)sender {
+    
+    // Make sure the number of cells in the model
+    // is the same as the number of cells displayed in
+    // current cellGridView
+    if (self.game.cellGrid.cells.count == self.cellGridView.count) {
+        for (int i = 0; i < self.numOfRows; i++) {
+            for (int j = 0; j < self.numOfColumns; j++) {
+                unsigned index = i*self.numOfColumns+j;
+                ((Cell *)[self.game.cellGrid.cells objectAtIndex:index]).alive = NO;
+            }
+        }
+    }
+    
+    [self updateCellGridView];
+}
+
+
 - (void) reInitializeAGame
 {
-    [self stopGame];
     self.game = [[ConwaysGame alloc]initWithBoundaryCondition:self.boundaryCondition NumOfRows:self.numOfRows NumOfColumns:self.numOfColumns];
     [self removeCellGridView];
     [self addCellGridViewWithNumOfRows:self.numOfRows NumOfColumns:self.numOfColumns DuringAppLaunch:NO];
@@ -78,6 +96,7 @@
 
 - (void) startGame
 {
+    [self updateGameCellGrid];
     self.gameTimer = [NSTimer scheduledTimerWithTimeInterval:self.timerInterval
                                                       target:self
                                                     selector:@selector(simulateAGameStepAndUpdateCellView)
@@ -88,6 +107,38 @@
 - (void) stopGame
 {
     [self.gameTimer invalidate];
+    [self enalbeGestureRecognizerOfCellGridView];
+}
+
+- (void) enalbeGestureRecognizerOfCellGridView
+{
+    // Make sure the number of cells in the model
+    // is the same as the number of cells displayed in
+    // current cellGridView
+    if (self.game.cellGrid.cells.count == self.cellGridView.count) {
+        for (int i = 0; i < self.numOfRows; i++) {
+            for (int j = 0; j < self.numOfColumns; j++) {
+                unsigned index = i*self.numOfColumns+j;
+                ((CellView*)[self.cellGridView objectAtIndex:index]).tapGestureRecognizer.enabled = YES;
+            }
+        }
+    }
+    
+}
+
+- (void) disableGestureRecognizerOfCellGridView
+{
+    // Make sure the number of cells in the model
+    // is the same as the number of cells displayed in
+    // current cellGridView
+    if (self.game.cellGrid.cells.count == self.cellGridView.count) {
+        for (int i = 0; i < self.numOfRows; i++) {
+            for (int j = 0; j < self.numOfColumns; j++) {
+                unsigned index = i*self.numOfColumns+j;
+                ((CellView*)[self.cellGridView objectAtIndex:index]).tapGestureRecognizer.enabled = NO;
+            }
+        }
+    }
 }
 
 - (void)viewDidLoad
@@ -131,6 +182,7 @@
     self.boundaryConditionList = @[@"Finite",@"Toroidal"];
     self.BoundaryConditionPicker.dataSource = self;
     self.BoundaryConditionPicker.delegate = self;
+    
 }
 
 - (void) simulateAGameStepAndUpdateCellView
