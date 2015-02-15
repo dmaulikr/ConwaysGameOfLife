@@ -10,6 +10,6 @@ Rules:
 # Notes:
 https://docs.google.com/document/d/16LgFh893rjE3uCdjoQH9ZS3bL98kB9EPtF-Ki7YLZE8/edit
 # Preview
-Youtube Video of the App running: https://www.youtube.com/watch?v=SGXCrcHcZoI
+Youtube Video of the App running: www.youtube.com/watch?v=FCt_GIdGEKY&feature=youtu.be
 
 ![alt tag](http://i.imgur.com/B1P6BUw.png)
