@@ -1,6 +1,6 @@
-# Conways GameOf Life
+# Conways Game Of Life
 A 2D cellular automation(2D grid simulation)
-Please check the following Wikipedia Page:
+Please check the following Wikipedia Page for more information:
 
 http://en.wikipedia.org/wiki/Conway's_Game_of_Life
 
