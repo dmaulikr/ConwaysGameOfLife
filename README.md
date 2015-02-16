@@ -14,7 +14,7 @@ Boundary Condition:
 * B1. Finite Boundary
 * B2. Toroidal Boundary
 
-Features:
+Features Supported:
 * I1. Tapping on cells to initialize the board
 * I2. Start a run of the automation
 * I3. Pause a run of the automation
