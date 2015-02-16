@@ -7,6 +7,18 @@ Rules:
 * R3.	Any live cell with more than three live neighbours dies.
 * R4.	Any dead cell with exactly three live neighbours becomes a live cell.
 
+Boundary Condition:
+* B1. Finite Boundary
+* B2. Toroidal Boundary
+
+Features:
+* I1. Tapping on cells to initialize the board
+* I2. Start a run of the automation
+* I3. Pause a run of the automation
+* I4. Clear an automation
+* I5. Control the amount of time that each step of the automation is displayed
+* I6. Change the boundary conditions of the automation
+
 # Preview
 Youtube Video of the App running: www.youtube.com/watch?v=FCt_GIdGEKY&feature=youtu.be
 
